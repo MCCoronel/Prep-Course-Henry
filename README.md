@@ -1,2 +1,2 @@
-# Prep-Course-Henry
-Este es un repositorio de prueba del modulo 2 del prep course de Henry
+Coronel Maria Celeste
+Este proyecto es una prueba de como crear un repositorio y de como clonarlo desde GitHub a mi computadora
